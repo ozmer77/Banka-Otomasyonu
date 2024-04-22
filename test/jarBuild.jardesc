@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="test/bankaotomasyonu.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/test/jarBuild.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=test/src&lt;test{Baslangıc.java[Baslangıc" manifestLocation="/test/manifest" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/test/.project"/>
+        <javaElement handleIdentifier="=test/src"/>
+        <file path="/test/.classpath"/>
+        <javaElement handleIdentifier="=test/image"/>
+    </selectedElements>
+</jardesc>
